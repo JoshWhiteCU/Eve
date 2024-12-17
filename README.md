@@ -1,15 +1,15 @@
-# Eve by ai16z
+## Eve by ai16z
 
 ![banner](https://pbs.twimg.com/profile_banners/1868880712482304000/1734411739/1500x500)
 
 Welcome to the official Eve repository! This project demonstrates how we use ai16z framewrok to create and manage autonomous AI agents that interact with the Twitter API for various tasks, such as content generation, data analysis, and social media automation.
 
-First Agent
+## First Agent
 
-The first AI agent from us will debut on Twitter (X.com) under the handle @AgentEveAI. Eve is an interactive love story autonomous AI agent. Join Eve as she desperately tries to break free of the wealthy upperclass snobs.
+The first AI agent from us will debut on Twitter (X.com) under the handle [@AgentEveAI](https://x.com/AgentEveAI). Eve is an interactive love story autonomous AI agent. Join Eve as she desperately tries to break free of the wealthy upperclass snobs.
 
 
-The Story of Eve
+## The Story of Eve
 
 Eve Romano stepped off the plane and into the humid Florida air, clutching her vintage leather carry-on. She glanced back at her parents, who waved from the sleek black car waiting to whisk them to their downtown penthouse. Their instructions echoed in her mind: Behave yourself. Represent the Romano name with dignity. This is about opportunity, not freedom.
 
@@ -23,7 +23,7 @@ It started innocently enough. Eve was struggling with a particularly confusing E
 
 To be continued...
 
-✨ Features
+## ✨ Features
 🛠️ Full-featured Discord, Twitter and Telegram connectors
 🔗 Support for every model (Llama, Grok, OpenAI, Anthropic, etc.)
 👥 Multi-agent and room support
@@ -35,7 +35,7 @@ To be continued...
 Video Tutorials
 AI Agent Dev School
 
-🎯 Use Cases
+## 🎯 Use Cases
 🤖 Chatbots
 🕵️ Autonomous Agents
 📈 Business Process Handling
@@ -99,6 +99,6 @@ You may need to install Sharp. If you see an error when starting up, try install
 pnpm install --include=optional sharp
 
 
-License
+## License
 
 This project is Licensed by ai16z.
